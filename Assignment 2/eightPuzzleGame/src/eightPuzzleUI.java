@@ -51,7 +51,7 @@ public class eightPuzzleUI {
 	private void initialize() {
 		frmpuzzleSolveIt = new JFrame();
 		frmpuzzleSolveIt.setTitle("8 PUZZLE GAME SOLVER USING BREADTH FIRST SEARCH OR A* ALGORITHM");
-		frmpuzzleSolveIt.setBounds(100, 100, 1090, 482);
+		frmpuzzleSolveIt.setBounds(100, 100, 750, 482);
 		frmpuzzleSolveIt.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		frmpuzzleSolveIt.getContentPane().setLayout(null);
 		
@@ -734,7 +734,7 @@ public class eightPuzzleUI {
 		});
 		btn_start.setForeground(Color.BLACK);
 		btn_start.setFont(new Font("Arial", Font.BOLD, 50));
-		btn_start.setBounds(348, 352, 182, 69);
+		btn_start.setBounds(348-180, 352, 182, 69);
 		frmpuzzleSolveIt.getContentPane().add(btn_start);
 		btn_start.setBackground(Color.WHITE);
 		
@@ -762,7 +762,7 @@ public class eightPuzzleUI {
 		});
 		btn_reset.setForeground(Color.RED);
 		btn_reset.setFont(new Font("Arial", Font.BOLD, 50));
-		btn_reset.setBounds(542, 352, 182, 69);
+		btn_reset.setBounds(542-180, 352, 182, 69);
 		frmpuzzleSolveIt.getContentPane().add(btn_reset);
 		btn_reset.setBackground(Color.WHITE);
 		
