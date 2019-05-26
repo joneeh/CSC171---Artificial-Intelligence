@@ -1,9 +1,8 @@
 # CSC 171 - Artificial Intellegence
 
-Joniselury O. Rasco
-BS - Information Technology
-**Student**
-
-Malikey M. Maulana
-**Professor**
-
+Joniselury O. Rasco <br />
+BS - Information Technology <br />
+**Student** <br />
+<br />
+Malikey M. Maulana <br />
+**Professor** <br />
