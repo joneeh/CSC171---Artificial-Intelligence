@@ -2,5 +2,6 @@
 1. open cmd <br />
 2. pip install pygame <br />
 3. done <br />
+
 **how to run the game** <br />
 1. python ***othelloGame.py*** <br />
